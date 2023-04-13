@@ -1,0 +1,165 @@
+*{
+    font-weight: 200;
+        font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+        transition: 0.3s;
+}
+.header{
+    background-color:#F3956F;
+    /* font-family: "Playfair+Display",cursive; */
+    /* font-family:'Montserrat',ExtraLight 200 Italic ; */
+    /* font-family: "ExtraLight 200 Italic"; */
+    font-weight: 200;
+        font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif;
+        display: flex;
+    flex-direction: row;
+}
+
+.cont3{
+    background-color:rgb(198, 116, 84) ;
+    width: 80%;
+    height: 5px;
+    margin-left:  3px; 
+}
+
+.cont1{
+    background-image: url(./img/image.png);
+    background-position: cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    margin-left: 100px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 80px;
+    border-radius: 50px;
+}
+
+.cont2{
+    margin-top: 30px;
+}
+
+.cont4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color:#8F5143 ;
+}
+
+.cont5{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.cont6{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.cont7{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+p{
+    color: white;
+    text-decoration: none;
+    font-family: "Playfair+Display",cursive;
+   
+}
+
+#i1{
+    margin-right: 6px;
+    margin-top: 11px;
+    color: white;
+    
+}
+
+#i2{
+    margin-right: 6px;
+    margin-top: 11px;
+    color: white;
+   
+}
+
+#i3{
+    margin-right: 6px;
+    margin-top: 11px;
+    color: white;
+    
+}
+
+#a2{
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#a1{
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#a3{
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    font-size: 25px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.contG{
+    background-color: #feab97ba;
+}
+
+#a1:hover{
+    font-size: 35px;
+}
+
+#a2:hover{
+    font-size: 35px;
+}
+
+#a3:hover{
+    font-size: 35px;
+}
+
+.cont1G{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.cont2G{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.contG{
+    display: flex;
+    flex-direction: column;
+}
+
+.cont3L{
+    width: 456px;
+    height: 600px;
+}
+
+.progress{
+margin: 10px;    
+
+}
+
+
